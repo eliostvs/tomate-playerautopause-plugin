@@ -1,0 +1,9 @@
+[Core]
+Name = Player Auto-Pause
+Module = playerautopause_plugin
+
+[Documentation]
+Author = Elio Esteves Duarte
+Version = 0.0.0
+Website =  https://github.com/eliostvs/tomate-playerautopause-plugin
+Description = Pauses all running media players when the session ends
