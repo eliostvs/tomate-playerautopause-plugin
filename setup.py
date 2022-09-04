@@ -45,6 +45,7 @@ setup(
     name="tomate-playerautopause-plugin",
     data_files=find_data_files(DATA_FILES, "tomate"),
     url="https://github.com/eliostvs/tomate-playerautopause-plugin",
-    version="0.1.0",
+    version="0.1.1",
     zip_safe=False,
+    py_modules=[],
 )
