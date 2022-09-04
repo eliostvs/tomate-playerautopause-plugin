@@ -47,4 +47,5 @@ setup(
     url="https://github.com/eliostvs/tomate-playerautopause-plugin",
     version="0.1.0",
     zip_safe=False,
+    py_modules=[],
 )
