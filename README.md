@@ -1,5 +1,7 @@
 # Tomate Player Auto-Pause Plugin
 
+**Move package to [tomate-gtk](https://github.com/eliostvs/tomate-gtk) repository.**
+
 Pauses all running media players when the session ends
 
 ## Installation
